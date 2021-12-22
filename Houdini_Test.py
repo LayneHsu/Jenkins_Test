@@ -11,4 +11,4 @@ geometry.setName('MY_GEO')
 
 geometry.createNode('box',"my_box")
 
-hou.hipFile.save("C:\Users\LayneHsu\Desktop\My_box", save_to_recent_files=True)
+hou.hipFile.save("C:\Users\LayneHsu\Desktop\My_box.hip", save_to_recent_files=True)
